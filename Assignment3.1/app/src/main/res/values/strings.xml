@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment3.1</string>
+    <string name="google_search">Google Search</string>
+    <string name="enter_your_text">Enter your text:</string>
+</resources>
